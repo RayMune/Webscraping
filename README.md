@@ -1,5 +1,5 @@
 # Webscraping
-This code fetches the specific samsung phone brand name and their corresponding price in Kenya Shillings
+This code fetches the specific samsung phone brand name and their corresponding price in Kenya Shillings.
 # Jumia Product Price Scraper
 
 This Python script allows you to scrape the prices of Samsung smartphones from the Jumia website. It utilizes the BeautifulSoup library for web scraping and the requests library for making HTTP requests.
